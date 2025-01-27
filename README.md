@@ -6,10 +6,9 @@
 
 ### 📫 **How to Reach Me:**
 - **Email:** [dhruvdpk03@gmail.com](mailto:dhruvdpk03@gmail.com)
-- **Phone:** +91-7738970479
-- **LeetCode Profile:** [LeetCode](https://leetcode.com/u/dhruvdpk03/)
 - **LinkedIn Profile:** [LinkedIn](https://www.linkedin.com/in/dhruv-pandit-282a0022b/)
-
+- **LeetCode Profile:** [LeetCode](https://leetcode.com/u/dhruvdpk03/)
+  
 ---
 
 ### 🔧 **Languages & Tools:**
