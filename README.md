@@ -4,34 +4,6 @@
 
 ---
 
-### 🎓 **Education**
-- **Bachelor of Engineering (Computer Engineering)**
-  - Rajiv Gandhi Institute of Technology, Mumbai University (2025)
-- **Central Board of Secondary Education (CBSE)**
-  - Aklank Public School, Rajasthan (2021)
-- **Secondary School Certificate (SSC)**
-  - Little Flower High School, Mumbai (2019)
-
----
-
-### 🛠️ **Technical Skills & Interests**
-
-- **Programming Languages:** C, C++, Java, Python, SQL
-- **Developer Tools & IDEs:** Visual Studio Code, Sublime Text, GitHub, Postman, Jenkins
-- **Frameworks & Libraries:** React.js, Express.js, Flask, React Native, Scikit-learn, TensorFlow, Pandas, Node.js
-- **Databases:** MySQL, MongoDB
-- **Machine Learning & AI Tools:** Scikit-learn, TensorFlow, Keras, NLP, Regression Analysis
-- **Cloud Computing:** AWS (EC2, Lambda, S3, DynamoDB, RDS)
-- **Data Science & Analytics:** Pandas, Data Structures & Algorithms, Data Analytics, Data Visualization
-- **Version Control:** GitHub, Git
-
----
-
-### 🌱 **Current Focus**
-- **Learning:** Full Stack Development
-
----
-
 ### 📫 **How to Reach Me:**
 - **Email:** [dhruvdpk03@gmail.com](mailto:dhruvdpk03@gmail.com)
 - **Phone:** +91-7738970479
@@ -56,38 +28,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
----
-
-### 💡 **Personal Projects**
-
-#### 🍔 **Food Ordering Website**
-- **Tech Used:** React.js, React Hooks, React Router, JavaScript
-- **Description:** An interactive platform that allows users to find restaurants based on cuisine preferences and place orders via integrated menus.
-- **Impact:** Reduced bounce rates by 10% through improved navigation and faster load times, leading to a better user experience.
-
-[View Project on GitHub](https://github.com/dhruv291103/SmartGymWebsite)
-
-#### 🌍 **Tourist Place Recommendation Web App**
-- **Tech Used:** Flask, Python, Machine Learning (Scikit-learn), Pandas
-- **Description:** A platform predicting tourist traffic patterns using machine learning techniques, providing insights to improve city operations during peak seasons.
-- **Impact:** Improved operational efficiency by 20% through better resource allocation during peak seasons.
-
-[View Project on GitHub](https://github.com/dhruv291103/TouristPredictionProject)
-
----
-
-### 🏆 **Certifications & Achievements**
-- **Data Structures & Algorithms Essentials using C++** (Udemy, 2023)
-- **C++ Programming** (Udemy, 2023)
-- **AWS Fundamentals** (Coursera)
-- **Python Crash Course** (Coursera)
-- **Object Oriented Programming in Java** (Coursera)
-- **Winner of Coding Competition:** Secured first prize in an algorithmic coding competition, winning 7500 INR.
-
----
-
 ### 📊 **GitHub Stats**
-![Your GitHub Stats](![dhruv291103's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv291103&theme=vue-dark&show_icons=true&hide_border=true&layout=compact))
+[dhruv291103's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv291103&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
