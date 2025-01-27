@@ -27,6 +27,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
+---
+
 ### 📊 **GitHub Stats**
 ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv291103&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
