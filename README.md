@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dhruv Pandit
 
-## A passionate **Full Stack Developer** & **Machine Learning Enthusiast** from India
+## A passionate **Full Stack Developer** & **Machine Learning Enthusiast**
 
 ---
 
@@ -35,8 +35,8 @@
 ### 📫 **How to Reach Me:**
 - **Email:** [dhruvdpk03@gmail.com](mailto:dhruvdpk03@gmail.com)
 - **Phone:** +91-7738970479
-- **LeetCode Profile:** [LeetCode](https://leetcode.com/dhruv_dp/)
-- **LinkedIn Profile:** [LinkedIn](https://www.linkedin.com/in/dhruv-dp-282a0022b/)
+- **LeetCode Profile:** [LeetCode](https://leetcode.com/u/dhruvdpk03/)
+- **LinkedIn Profile:** [LinkedIn](https://www.linkedin.com/in/dhruv-pandit-282a0022b/)
 
 ---
 
@@ -65,14 +65,14 @@
 - **Description:** An interactive platform that allows users to find restaurants based on cuisine preferences and place orders via integrated menus.
 - **Impact:** Reduced bounce rates by 10% through improved navigation and faster load times, leading to a better user experience.
 
-[View Project on GitHub](https://github.com/yourusername/food-ordering-website)
+[View Project on GitHub](https://github.com/dhruv291103/SmartGymWebsite)
 
-#### 🌍 **Tourism Prediction Web App**
+#### 🌍 **Tourist Place Recommendation Web App**
 - **Tech Used:** Flask, Python, Machine Learning (Scikit-learn), Pandas
 - **Description:** A platform predicting tourist traffic patterns using machine learning techniques, providing insights to improve city operations during peak seasons.
 - **Impact:** Improved operational efficiency by 20% through better resource allocation during peak seasons.
 
-[View Project on GitHub](https://github.com/yourusername/tourism-prediction-webapp)
+[View Project on GitHub](https://github.com/dhruv291103/TouristPredictionProject)
 
 ---
 
@@ -87,14 +87,13 @@
 ---
 
 ### 📊 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](![dhruv291103's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv291103&theme=vue-dark&show_icons=true&hide_border=true&layout=compact))
 
 ---
 
 ### 🤝 **Connect with Me**
-- [LinkedIn](https://www.linkedin.com/in/dhruv-dp-282a0022b/)
-- [Portfolio](https://yourportfolio.com)
-- [LeetCode Profile](https://leetcode.com/dhruv_dp/)
+- [LinkedIn](https://www.linkedin.com/in/dhruv-pandit-282a0022b/)
+- [LeetCode Profile](https://leetcode.com/u/dhruvdpk03/)
 
 ---
 
