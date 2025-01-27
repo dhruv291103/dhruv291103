@@ -29,7 +29,7 @@
 </p>
 
 ### 📊 **GitHub Stats**
-[dhruv291103's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv291103&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv291103&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
