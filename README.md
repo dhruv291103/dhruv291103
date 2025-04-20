@@ -41,6 +41,6 @@
 ---
 
 ### 💬 **Fun Fact:**
-- I'm a **200-day LeetCode Streak Achiever**! 🚀
+- I'm a **365-day LeetCode Streak Achiever**! 🚀
 
 ---
